@@ -1,5 +1,7 @@
 You need to have OLA installed with it's python API libs to run this program
+
 OLA website : http://www.openlighting.org/ola/
+
 Python API doc : http://www.openlighting.org/ola/developer-documentation/python-api/
 
 OLA and the python API help the program communicate with your DMX/USB Box
