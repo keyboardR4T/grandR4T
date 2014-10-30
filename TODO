@@ -1,0 +1,5 @@
+1.Patching stuff
+
+Make patch function use xml libs instead of line by line file reading
+Delete patch line function
+Modify patch line function
